@@ -1,0 +1,14 @@
+Conclusion:
+After clustering the data set it is the time to get a conclusion; as we saw there are five clusters, zero to four. I looked at each cluster’s features and found some interesting facts:
+
+Cluster 0 : they have lowest of Tenure, Cash_Advance, Balance, Purchase, Credit limit, Payment, so they are new customers and should be targeted to send credit card offers with higher credit limit, tenure.
+
+Cluster 1 also has the same behavior, they may be merged with cluster 0 and targeted the same.
+
+Cluster 2 : they do not have a specific behavior, they may accept any offer.
+
+Cluster3 : they have highest Credit limit, full payments, payments, Purchase and… these are prime customers and should receive offers with some benefits like Air-mile, Hotel discount… and also increase their credit limit to encourage them use more.
+
+Cluster 4: they have high Cash advance, Balance and low Purchase, they use their credit as a loan and are lucrative for credit companies.
+
+The slides of the presentation are attached.
